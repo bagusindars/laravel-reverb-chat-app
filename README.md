@@ -58,7 +58,7 @@ php artisan reverb:start
 ### Web
 ```bash
 to access the web dashboard open with default port or via virtual host
-http://127.0.0.1:8000 
+http://127.0.0.1:8000/login
 ```
 
 For Simulating the Login User (Agent) is by Triggering the Registration Live Chat Support and Check It on Database (Agent)
