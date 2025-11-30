@@ -1,0 +1,33 @@
+{
+    "files": [],
+    "helpers": {
+        "popup": [
+            "popover"
+        ]
+    },
+    "internalDependencies": {
+        "icon": [
+            "input",
+            "error",
+            "button",
+            "badge",
+            "navlist",
+            "sidebar",
+            "dropdown",
+            "navbar"
+        ],
+        "button": [
+            "badge",
+            "navlist",
+            "sidebar",
+            "navbar"
+        ],
+        "badge": [
+            "navlist",
+            "navbar"
+        ],
+        "navlist": [
+            "sidebar"
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "project_hash": "133f1232-cc19-4a9a-915b-4d45331782c5",
+    "components": {
+        "label": {
+            "installationTime": 1764310285
+        },
+        "input": {
+            "installationTime": 1764310321
+        },
+        "icon": {
+            "installationTime": 1764310394
+        },
+        "error": {
+            "installationTime": 1764310416
+        },
+        "field": {
+            "installationTime": 1764310438
+        },
+        "button": {
+            "installationTime": 1764310495
+        },
+        "popover": {
+            "installationTime": 1764322931
+        },
+        "popup": {
+            "installationTime": 1764322931
+        },
+        "textarea": {
+            "installationTime": 1764349093
+        },
+        "layout": {
+            "installationTime": 1764350605
+        },
+        "navlist": {
+            "installationTime": 1764350743
+        },
+        "badge": {
+            "installationTime": 1764350749
+        },
+        "sidebar": {
+            "installationTime": 1764350784
+        },
+        "dropdown": {
+            "installationTime": 1764351661
+        },
+        "brand": {
+            "installationTime": 1764352657
+        },
+        "avatar": {
+            "installationTime": 1764353378
+        },
+        "navbar": {
+            "installationTime": 1764358836
+        },
+        "accordion": {
+            "installationTime": 1764360874
+        },
+        "toast": {
+            "installationTime": 1764411002
+        }
+    }
+}
